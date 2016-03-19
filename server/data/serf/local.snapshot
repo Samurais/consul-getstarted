@@ -1,0 +1,100 @@
+alive: bar 127.0.0.1:8301
+event-clock: 1
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+alive: bar 127.0.0.1:8301
+alive: bar 127.0.0.1:8301
+alive: bar 127.0.0.1:8301
+event-clock: 2
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+alive: bar 127.0.0.1:8301
+event-clock: 3
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+alive: bar 127.0.0.1:8301
+event-clock: 4
+alive: bar 127.0.0.1:8301
+event-clock: 5
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+alive: bar 127.0.0.1:8301
+event-clock: 6
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+alive: bar 127.0.0.1:8301
+event-clock: 7
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+alive: bar 127.0.0.1:8301
+event-clock: 8
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+alive: bar 127.0.0.1:8301
+event-clock: 9
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+alive: bar 127.0.0.1:8301
+event-clock: 10
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+alive: bar 127.0.0.1:8301
+event-clock: 11
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+alive: bar 127.0.0.1:8301
+event-clock: 12
+alive: bar 127.0.0.1:8301
+event-clock: 13
+alive: bar 127.0.0.1:8301
+event-clock: 14
+alive: bar 127.0.0.1:8301
+event-clock: 15
+alive: bar 127.0.0.1:8301
+event-clock: 16
+alive: bar 127.0.0.1:8301
+event-clock: 17
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+alive: bar 127.0.0.1:8301
+event-clock: 18
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+alive: bar 127.0.0.1:8301
+event-clock: 19
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+alive: bar 127.0.0.1:8301
+event-clock: 20
+alive: bar 127.0.0.1:8301
+event-clock: 21

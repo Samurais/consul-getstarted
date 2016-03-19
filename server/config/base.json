@@ -1,0 +1,17 @@
+{
+  "log_level": "INFO",
+  "server": true,
+  "data_dir": "/Users/hain/glory/consul/server/data",
+  "ui_dir": "/Users/hain/glory/consul/server/ui",
+  "client_addr": "0.0.0.0",
+  "bind_addr": "127.0.0.1",
+  "acl_datacenter": "foo",
+  "acl_default_policy": "deny",
+  "acl_token": "ee465dce-ef62-e06c-c1cb-bc9593f9a6d4",
+  "acl_master_token":"whydweic",
+  "bootstrap_expect": 1,
+  "datacenter": "foo",
+  "node_name": "bar",
+  "skip_leave_on_interrupt": true,
+  "leave_on_terminate": true
+}
