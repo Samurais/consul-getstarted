@@ -98,3 +98,26 @@ alive: bar 127.0.0.1:8301
 event-clock: 20
 alive: bar 127.0.0.1:8301
 event-clock: 21
+alive: bar 127.0.0.1:8301
+event-clock: 22
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
+coordinate: {"Vec":[0,0,0,0,0,0,0,0],"Error":1.5,"Adjustment":0,"Height":1e-05}
