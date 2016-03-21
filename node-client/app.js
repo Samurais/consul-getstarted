@@ -1,4 +1,4 @@
-var consul = require('consul')({host: '127.0.0.1', port: 8500});
+var consul = require('consul')({host: 'yap.cn.ibm.com', port: 8500});
 
 
 consul.agent.service.list(function(err, result) {
